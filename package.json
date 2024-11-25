@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "@alpinejs/intersect": "^3.14.1",
+    "alpinejs": "^3.14.1",
+    "esbuild": "^0.23.0"
+  }
+}
